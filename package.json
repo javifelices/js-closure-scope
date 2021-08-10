@@ -1,0 +1,26 @@
+{
+  "name": "js-closure-scope",
+  "version": "1.0.0",
+  "description": "Curso de Closures y Scope en JavaScript por Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javifelices/js-closure-scope.git"
+  },
+  "keywords": [
+    "closure",
+    "scope",
+    "javascript",
+    "platzi",
+    "hoisting"
+  ],
+  "author": "@javifelices",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javifelices/js-closure-scope/issues"
+  },
+  "homepage": "https://github.com/javifelices/js-closure-scope#readme"
+}
