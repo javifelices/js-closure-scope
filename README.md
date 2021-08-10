@@ -8,6 +8,10 @@
 
 -   [Entendiendo scopes de variables en JavaScript](https://yeisondaza.com/entendiendo-scopes-de-variables-en-javascript)
 
+-   [Scope de las variables en JavaScript](https://francescricart.com/scope-variables-js/)
+
+-   [Qué es y cómo funciona el scope en JavaScript](https://platzi.com/blog/como-funciona-el-scope-en-javascript/)
+
 <br>
 
 ## Vídeos
