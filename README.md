@@ -4,13 +4,15 @@
 
 -   [Var, Let y Const en JavaScript: ¿cuál es la diferencia?](https://estradawebgroup.com/Post/Var--Let-y-Const-en-JavaScript---cual-es-la-diferencia-/20375)
 
--   [Definiendo conceptos: Closure y Scope en JavaScript](https://medium.com/@sergiodxa/definiendo-conceptos-closure-y-scope-en-javascript-9081f1e113e6)
+-   [Definiendo conceptos: Closure y Scope en JavaScript (sergiodxa)](https://medium.com/@sergiodxa/definiendo-conceptos-closure-y-scope-en-javascript-9081f1e113e6)
 
--   [Entendiendo scopes de variables en JavaScript](https://yeisondaza.com/entendiendo-scopes-de-variables-en-javascript)
+-   [Entendiendo scopes de variables en JavaScript (yeisondaza)](https://yeisondaza.com/entendiendo-scopes-de-variables-en-javascript)
 
--   [Scope de las variables en JavaScript](https://francescricart.com/scope-variables-js/)
+-   [Scope de las variables en JavaScript (francescricart)](https://francescricart.com/scope-variables-js/)
 
--   [Qué es y cómo funciona el scope en JavaScript](https://platzi.com/blog/como-funciona-el-scope-en-javascript/)
+-   [Qué es y cómo funciona el scope en JavaScript (Platzi)](https://platzi.com/blog/como-funciona-el-scope-en-javascript/)
+
+-   [Scope en JavaScript (SomosPNT)](https://somospnt.com/blog/120-scope-en-javascript)
 
 <br>
 
@@ -22,6 +24,10 @@
 
 <br>
 
+![Scope en Javascript](https://i.imgur.com/rZGPpwN.jpg)
+
 ## Repositorios
 
 -   [Platzi-Closures-Scope-JavaScript por @Jasaron1997](https://github.com/Jasaron1997/Platzi-Closures-Scope-JavaScript)
+-   [Closures-Scope por @patogalarzar](https://github.com/patogalarzar/code-notes/tree/main/Closures-Scope)
+
