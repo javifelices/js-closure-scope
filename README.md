@@ -10,7 +10,7 @@
 
 -   [Scope de las variables en JavaScript (francescricart)](https://francescricart.com/scope-variables-js/)
 
--   [Qué es y cómo funciona el scope en JavaScript (Platzi)](https://platzi.com/blog/como-funciona-el-scope-en-javascript/)
+-   [Qué es y cómo funciona el scope en JavaScript (Platzi)](https://platzi.com/blog/como-funciona-el-scope-en-javascript/)\*\*\*\*
 
 -   [Scope en JavaScript (SomosPNT)](https://somospnt.com/blog/120-scope-en-javascript)
 
@@ -25,6 +25,14 @@
 -   [Closure (MDN)](https://developer.mozilla.org/es/docs/Web/JavaScript/Closures)
 
 -   [¿Qué es un closure? Ejemplo de la clase explicado con JavaScript Visualizer (Platzi)](https://platzi.com/tutoriales/1807-scope/8839-que-es-closure-ejemplo-de-la-clase-explicado-con-javascript-visualizer/)
+
+-   [Entendiendo Getters y Setters en JavaScript](https://yeisondaza.com/entendiendo-getters-y-setters-en-javascript)
+
+-   [Private class fields](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Classes/Private_class_fields)
+
+-   [Patrones de diseño en JavaScript (Medium)](https://medium.com/@jmz12/patrones-de-dise%C3%B1o-en-js-43beab8f5756)
+
+-   [Closures - Private Variables and Methods in JavaScript](https://lazamar.github.io/closures-private-variables-and-methods-in-javascript/)
 
 <br>
 
