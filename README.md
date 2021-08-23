@@ -14,20 +14,28 @@
 
 -   [Scope en JavaScript (SomosPNT)](https://somospnt.com/blog/120-scope-en-javascript)
 
+-   [Closue (MDN)](https://developer.mozilla.org/es/docs/Web/JavaScript/Closures)
+
+-   [¿Qué es un closure? Ejemplo de la clase explicado con JavaScript Visualizer (Platzi)](https://platzi.com/tutoriales/1807-scope/8839-que-es-closure-ejemplo-de-la-clase-explicado-con-javascript-visualizer/)
+
 <br>
 
 ## Vídeos
 
--   [VAR vs LET vs CONST: TODAS LAS DIFERENCIAS | JS en ESPAÑOL](https://www.youtube.com/watch?v=ojrvxYcKeYg)
+-   [VAR vs LET vs CONST: TODAS LAS DIFERENCIAS | La Cocina del Código](https://www.youtube.com/watch?v=ojrvxYcKeYg)
 
--   [6. EL SCOPE en JAVASCRIPT | JS en ESPAÑOL](https://www.youtube.com/watch?v=s-7C09ymzK8)
+-   [6. EL SCOPE en JAVASCRIPT | La Cocina del Código](https://www.youtube.com/watch?v=s-7C09ymzK8)
+
+-   [21. CLAUSURAS (Closures) EN JAVASCRIPT | La Cocina del Código](https://www.youtube.com/watch?v=JXG_gQ0OF74)
 
 <br>
 
 ![Scope en Javascript](https://i.imgur.com/rZGPpwN.jpg)
 
+![Closure en Javascript](https://i.imgur.com/hFGZdl0.jpg)
+
 ## Repositorios
 
 -   [Platzi-Closures-Scope-JavaScript por @Jasaron1997](https://github.com/Jasaron1997/Platzi-Closures-Scope-JavaScript)
 -   [Closures-Scope por @patogalarzar](https://github.com/patogalarzar/code-notes/tree/main/Closures-Scope)
-
+-   [closures.js por @cosmosoftroot](https://gist.github.com/cosmosoftroot/42106b053e73a8fab5106c8bc466546d)
