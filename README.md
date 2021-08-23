@@ -34,6 +34,8 @@
 
 -   [Closures - Private Variables and Methods in JavaScript](https://lazamar.github.io/closures-private-variables-and-methods-in-javascript/)
 
+-   [¿Qué es el hoisting? (Medium)](https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36)
+
 <br>
 
 ## Vídeos
@@ -48,6 +50,8 @@
 
 -   [Closures, programación funcional en javascript, parte 6 | HolaMundo](https://www.youtube.com/watch?v=E6aPTeVujRs)
 
+-   [¿QUÉ ES EL HOISTING EN JAVASCRIPT | La Cocinca del Código](https://www.youtube.com/watch?v=uI6o97A4IrI)
+
 <br>
 
 ![Scope en Javascript](https://i.imgur.com/rZGPpwN.jpg)
@@ -55,6 +59,8 @@
 ![Closure en Javascript](https://i.imgur.com/hFGZdl0.jpg)
 
 ![Closure en Javascript](https://i.imgur.com/fgFGaNh.jpg)
+
+![Hoisting](https://i.imgur.com/3GQbWQL.jpg)
 
 ## Repositorios
 
