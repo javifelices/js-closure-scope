@@ -14,7 +14,15 @@
 
 -   [Scope en JavaScript (SomosPNT)](https://somospnt.com/blog/120-scope-en-javascript)
 
--   [Closue (MDN)](https://developer.mozilla.org/es/docs/Web/JavaScript/Closures)
+-   [Entendiendo closures en JavaScript (Medium)](https://medium.com/entendiendo-javascript/entendiendo-closures-en-javascript-8fb9a284964e)
+
+-   [Execution context o el contento de ejecución de JavaScript (Gustavo Hernán Dohara)](https://gustavodohara.com/blogangular/execution-context-contexto-ejecucion-javascript/)
+
+-   [A Simple Explnation of JavaScript Closures (Dimitri Pavlutin)](https://dmitripavlutin.com/simple-explanation-of-javascript-closures/)
+
+-   [I never understood JavaScript Closures (medium)](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
+
+-   [Closure (MDN)](https://developer.mozilla.org/es/docs/Web/JavaScript/Closures)
 
 -   [¿Qué es un closure? Ejemplo de la clase explicado con JavaScript Visualizer (Platzi)](https://platzi.com/tutoriales/1807-scope/8839-que-es-closure-ejemplo-de-la-clase-explicado-con-javascript-visualizer/)
 
@@ -28,11 +36,17 @@
 
 -   [21. CLAUSURAS (Closures) EN JAVASCRIPT | La Cocina del Código](https://www.youtube.com/watch?v=JXG_gQ0OF74)
 
+-   [¿Qué son los closures en Javascript? | hdleon.net](https://www.youtube.com/watch?v=3CDpX06hHZs)
+
+-   [Closures, programación funcional en javascript, parte 6 | HolaMundo](https://www.youtube.com/watch?v=E6aPTeVujRs)
+
 <br>
 
 ![Scope en Javascript](https://i.imgur.com/rZGPpwN.jpg)
 
 ![Closure en Javascript](https://i.imgur.com/hFGZdl0.jpg)
+
+![Closure en Javascript](https://i.imgur.com/fgFGaNh.jpg)
 
 ## Repositorios
 
